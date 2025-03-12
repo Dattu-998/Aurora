@@ -1,0 +1,12 @@
+[
+    {
+        "user": "hi",
+        "bot": "Hi there! How can I help you today?\n",
+        "audio": "/static/response_1740932840.mp3"
+    },
+    {
+        "user": "can u store the info now?",
+        "bot": "I can't store information persistently.  I'm a large language model, and my memory is only temporary.  Each time we have a conversation, it starts fresh.  To store information, you'll need to use a different tool, such as a computer file, a note-taking app, or a database.\n",
+        "audio": "/static/response_1740932855.mp3"
+    }
+]
